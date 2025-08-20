@@ -1,0 +1,56 @@
+[
+  {
+    "id": "acct_1755668112598",
+    "userId": "user_1755667888861",
+    "accountType": "Chase Total Checking®",
+    "balance": 515,
+    "createdDate": "2025-08-20T05:35:12.598Z"
+  },
+  {
+    "id": "acct_1755670794296",
+    "userId": "user_1755667888861",
+    "accountType": "Chase Savings℠",
+    "balance": 10,
+    "createdDate": "2025-08-20T06:19:54.296Z"
+  },
+  {
+    "id": "acct_1755696187077",
+    "userId": "user_1755667888861",
+    "accountType": "Chase Savings℠",
+    "balance": 75,
+    "createdDate": "2025-08-20T13:23:07.077Z"
+  },
+  {
+    "id": "acct_1755696561667",
+    "userId": "user_1755696479574",
+    "accountType": "Chase Total Checking®",
+    "balance": 1389,
+    "createdDate": "2025-08-20T13:29:21.667Z"
+  },
+  {
+    "id": "acct_1755696863114",
+    "userId": "user_1755696479574",
+    "accountType": "Chase Savings℠",
+    "balance": 111,
+    "createdDate": "2025-08-20T13:34:23.114Z"
+  },
+  {
+    "id": "acct_1755696927998",
+    "userId": "user_1755696479574",
+    "accountType": "Credit Card",
+    "cardType": "Bank of America® Customized Cash Rewards",
+    "balance": 991,
+    "creditLimit": 7897,
+    "cardNumber": "5040101016545176",
+    "expiryDate": "6/29",
+    "cvv": "459",
+    "createdDate": "2025-08-20T13:35:27.998Z"
+  },
+  {
+    "id": "1366302288",
+    "userId": "user_1755667888861",
+    "accountType": "Total Checking®",
+    "balance": 0,
+    "createdDate": "2025-08-20T13:58:44.406Z"
+  }
+]

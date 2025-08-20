@@ -1,0 +1,23 @@
+[
+    {
+        "id": "total-checking",
+        "name": "Total Checking®",
+        "description": "Our most popular checking account with the banking essentials.",
+        "fee": "$12 or $0",
+        "features": ["Zero Liability Protection", "Ability to write checks and wire money"]
+    },
+    {
+        "id": "secure-banking",
+        "name": "Secure Banking℠",
+        "description": "A simple checking account with no overdraft fees.",
+        "fee": "$4.95 or $0",
+        "features": ["Direct deposits up to two business days early", "No paper checks to manage"]
+    },
+    {
+        "id": "college-checking",
+        "name": "College Checking℠",
+        "description": "For students 17 to 24 years old at account opening.",
+        "fee": "$0 while in school (5 years max)",
+        "features": ["Tools like Account Alerts and Zelle® to help manage your money"]
+    }
+]

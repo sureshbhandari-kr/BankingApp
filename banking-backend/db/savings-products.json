@@ -1,0 +1,16 @@
+[
+    {
+        "id": "chase-savings",
+        "name": "Chase Savings℠",
+        "description": "Savings made simple with our most popular savings account. Automatically set money aside, earn interest and track your savings on the go.",
+        "fee": "$5 or $0",
+        "features": ["Your account earns interest.", "It's easy to save when linked to a Chase checking account.", "Access to 15,000 ATMs and more than 4,700 branches."]
+    },
+    {
+        "id": "premier-savings",
+        "name": "Chase Premier Savings℠",
+        "description": "Earn Premier relationship rates when you link the account to a qualifying Chase checking account.",
+        "fee": "$25 or $0",
+        "features": ["Higher interest rates when linked to a premium checking account.", "No monthly service fee with a higher balance.", "Online & mobile banking."]
+    }
+]

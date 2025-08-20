@@ -1,0 +1,98 @@
+[
+  {
+    "id": "txn_1755671878927",
+    "accountId": "acct_1755668112598",
+    "type": "Credit",
+    "amount": 500,
+    "description": "Check Deposit",
+    "date": "2025-08-20T06:37:58.927Z"
+  },
+  {
+    "id": "txn_1755696237805_d",
+    "accountId": "acct_1755668112598",
+    "type": "Debit",
+    "amount": -10,
+    "description": "Transfer to Chase Savings℠",
+    "date": "2025-08-20T13:23:57.805Z"
+  },
+  {
+    "id": "txn_1755696237805_c",
+    "accountId": "acct_1755670794296",
+    "type": "Credit",
+    "amount": 10,
+    "description": "Transfer from Chase Total Checking®",
+    "date": "2025-08-20T13:23:57.805Z"
+  },
+  {
+    "id": "txn_1755696251066_d",
+    "accountId": "acct_1755668112598",
+    "type": "Debit",
+    "amount": -75,
+    "description": "Transfer to Chase Savings℠",
+    "date": "2025-08-20T13:24:11.066Z"
+  },
+  {
+    "id": "txn_1755696251066_c",
+    "accountId": "acct_1755696187077",
+    "type": "Credit",
+    "amount": 75,
+    "description": "Transfer from Chase Total Checking®",
+    "date": "2025-08-20T13:24:11.066Z"
+  },
+  {
+    "id": "txn_1755696293297",
+    "accountId": "acct_1755668112598",
+    "type": "Credit",
+    "amount": 100,
+    "description": "Payroll Direct Deposit",
+    "date": "2025-08-20T13:24:53.297Z"
+  },
+  {
+    "id": "txn_1755696593042",
+    "accountId": "acct_1755696561667",
+    "type": "Credit",
+    "amount": 1000,
+    "description": "Payroll Direct Deposit",
+    "date": "2025-08-20T13:29:53.042Z"
+  },
+  {
+    "id": "txn_1755696826691",
+    "accountId": "acct_1755696561667",
+    "type": "Credit",
+    "amount": 500,
+    "description": "Transfer from External Account",
+    "date": "2025-08-20T13:33:46.691Z"
+  },
+  {
+    "id": "txn_1755696872409_d",
+    "accountId": "acct_1755696561667",
+    "type": "Debit",
+    "amount": -111,
+    "description": "Transfer to Chase Savings℠",
+    "date": "2025-08-20T13:34:32.409Z"
+  },
+  {
+    "id": "txn_1755696872409_c",
+    "accountId": "acct_1755696863114",
+    "type": "Credit",
+    "amount": 111,
+    "description": "Transfer from Chase Total Checking®",
+    "date": "2025-08-20T13:34:32.409Z"
+  },
+  {
+    "id": "txn_1755696942371",
+    "accountId": "acct_1755696927998",
+    "type": "Purchase",
+    "amount": 112,
+    "description": "SHIP TO SOMTHING",
+    "date": "2025-08-20T13:35:42.371Z"
+  },
+  {
+    "id": "txn_1755696967635",
+    "accountId": "acct_1755696927998",
+    "type": "Purchase",
+    "amount": 879,
+    "description": "ASDFA ADF AA FSDAS",
+    "date": "2025-08-20T13:36:07.635Z"
+  }
+]

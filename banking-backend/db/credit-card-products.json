@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Bank of America® Customized Cash Rewards",
+    "id": "customized-cash",
+    "offer": "New Offer: 6% cash back in the category of your choice – for the first year. Plus, a $200 online cash rewards bonus offer.",
+    "annualFee": "No annual fee",
+    "details": [
+      "3% cash back + 3% first-year cash back bonus in the category of your choice.",
+      "Automatic 2% cash back at grocery stores and wholesale clubs.",
+      "Unlimited 1% cash back on all other purchases.",
+      "0% Intro APR for your first 15 billing cycles for purchases."
+    ]
+  },
+  {
+    "name": "Bank of America® Unlimited Cash Rewards",
+    "id": "unlimited-cash",
+    "offer": "New offer: Unlimited 2% cash back on purchases for the first year. Plus, a $200 online cash rewards bonus offer.",
+    "annualFee": "No annual fee",
+    "details": [
+      "Earn unlimited 2% cash back on purchases for the first year.",
+      "Thereafter, you'll earn unlimited 1.5% cash back on all purchases.",
+      "No limit to the amount of cash back you can earn and cash rewards don’t expire.",
+      "0% Intro APR for your first 15 billing cycles for purchases."
+    ]
+  }
+]

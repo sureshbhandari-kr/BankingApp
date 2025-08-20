@@ -1,0 +1,21 @@
+[
+  {
+    "id": "app_credit_1755696927988",
+    "cardType": "Bank of America® Customized Cash Rewards",
+    "firstName": "Suresh",
+    "lastName": "Bhandari",
+    "email": "mike19dsouza@gmail.com",
+    "ssn": "123456789",
+    "ssnConfirm": "123456789",
+    "address": "1234564654",
+    "idType": "state_id",
+    "idNumber": "123123456",
+    "issuingState": "Alaska",
+    "totalAnnualIncome": "1231321",
+    "incomeSource": "Employed",
+    "housingPayment": "123456",
+    "userId": "user_1755696479574",
+    "status": "Submitted",
+    "submittedDate": "2025-08-20T13:35:27.988Z"
+  }
+]
